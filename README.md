@@ -7,7 +7,6 @@
 
 [Business Understanding](#headers) 
 
-[Emphasis](#emphasis)  
 <a name="headers"/>
 
 
