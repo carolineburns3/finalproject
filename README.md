@@ -18,6 +18,9 @@ Public education across the United States is largely controlled by local and sta
 
 We are looking to explore how public school revenue and expenditure impacts learning outcomes, specifically math and reading standarized test scores. Using the data set from [Kaggle](https://www.kaggle.com/noriuk/us-education-datasets-unification-project) we are able to explore this across states and time.
 
+# Business Understanding
+### How are US public schools funded?
+
 
  # Sources:
 
