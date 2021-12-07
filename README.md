@@ -23,9 +23,15 @@ We are looking to explore how public school revenue and expenditure impacts lear
 
 Across the nation, there are drastic differences in revenue and expenditure between and within states. The wealthiest, top 10 percent of public schools in the nation spend 10 times the amount that the poorest, bottom 10 percent do. This is a racialized issue as well. Despite the end of legal segregation, minorities in the US still have largely separate and unequal education. In fact, 2/3 of minority students in America attend schools that are predominantly minority. These schools are almost always underfunded and underresourced. Studies have found that with proper resources and opportunity, these students can succeed. 
 
+https://www.brookings.edu/articles/unequal-opportunity-race-and-education/
+
 Property taxes have an affect on this differential spending by public schools. Segregated towns and cities mean that different locales will be able to produce more or less revenue depending on the number of businesses, homeowners, and other landowners that are paying property taxes. Simply put, property values vary from place to place, and higher value property indicates a higher property tax revenue. Some states will send more money to less affluent schools but it doesn't always mitigate the effects. 
 
+https://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem
+
 The Nation's Report Card indicates that there are math and reading achievement gaps between students who qualify for free or reduced lunch and those who don't. This qualification is a good indication of socioeconmic class. There is also achievement gaps between white and Black students. Public school revenue and expenditure may be a key variable in reducing these achievement gaps. 
+
+https://www.nationsreportcard.gov/dashboards/achievement_gaps.aspx
 
  # Sources:
 
