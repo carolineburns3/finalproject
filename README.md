@@ -33,6 +33,13 @@ The Nation's Report Card indicates that there are math and reading achievement g
 
 https://www.nationsreportcard.gov/dashboards/achievement_gaps.aspx
 
+### What can governments do?
+
+In 1968, a lawsuit against a school district for differential funding amongst the state went to the Supreme Court. Those who filed the suit argued that the funding system was unequal. The Supreme Court ruled that because education is not a guaranteed right under the US Constitution there are no rights being violated. Therefore, it is largely a state and local government issue. In turn, there is a variance in how much states spend per student. In New York, for example, spends about $23.3 thousand per student, while Florida spends $9.6 thousand. Policy solutions would have most direct impact if implemented at the state or local level due to the majority of funds coming from those governments. 
+
+https://educationdata.org/public-education-spending-statistics
+https://www.americanprogress.org/article/quality-approach-school-funding/
+
  # Sources:
 
 https://www.education.pa.gov/Teachers%20-%20Administrators/School%20Finances/Finances/AFR%20Data%20Summary/Pages/AFR-Data-Summary-Level.aspx
