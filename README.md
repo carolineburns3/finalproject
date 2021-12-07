@@ -19,7 +19,11 @@ Public education across the United States is largely controlled by local and sta
 We are looking to explore how public school revenue and expenditure impacts learning outcomes, specifically math and reading standarized test scores. Using the data set from [Kaggle](https://www.kaggle.com/noriuk/us-education-datasets-unification-project) we are able to explore this across states and time.
 
 # Business Understanding
-### How are US public schools funded?
+### Public schools and funding
+
+Across the nation, there are drastic differences in revenue and expenditure between and within states. The wealthiest, top 10 percent of public schools in the nation spend 10 times the amount that the poorest, bottom 10 percent do. This is a racialized issue as well. Despite the end of legal segregation, minorities in the US still have largely separate and unequal education. In fact, 2/3 of minority students in America attend schools that are predominantly minority. These schools are almost always underfunded and underresourced. Studies have found that with proper resources and opportunity, these students can succeed. 
+
+Property taxes have an affect on this differential spending by public schools. Segregated towns and cities mean that different locales will be able to produce more or less revenue depending on the number of businesses, homeowners, and other landowners that are paying property taxes. Simply put, property values vary from place to place, and higher value property indicates a higher property tax revenue. Some states will send more money to less affluent schools but it doesn't always mitigate the effects. 
 
 
  # Sources:
