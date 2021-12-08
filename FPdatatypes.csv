@@ -16,4 +16,4 @@ A_A_A,Ratio,Total number of students in the state
 G_A_A,Ratio,"Total number of students in the indicated grade (G = G01-G12 (grades 1 to 12), PK (Pre-kindergarten),  KG (kindergarten))"
 G_E_S,Ratio,"Total number of students in the indicated grade with the indicated ethnicity and sex (G = Grade; E = AM (American Indian or Alaska Native), AS (Asian), HI (Hispanic/Latino), BL (Black or African American), WH (White), HP (Hawaiian Native/Pacific Islander), and TR (Two or More Races); S = M (Male) and F (Female))"
 G_E_S_READING,Ratio,Average score of students on the Reading test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all))
-G_S_E_MATHEMATICS,Ratio,Average score of students on the Mathematics test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all))
+G_E_S_MATHEMATICS,Ratio,Average score of students on the Mathematics test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all))
