@@ -31,6 +31,15 @@ The Nation's Report Card indicates that there are math and reading achievement g
 
 In 1968, a lawsuit against a school district for differential funding amongst the state went to the Supreme Court. Those who filed the suit argued that the funding system was unequal. The Supreme Court ruled that because education is not a guaranteed right under the US Constitution there are no rights being violated (Martin et al., 2018). Therefore, it is largely a state and local government issue. In turn, there is a variance in how much states spend per student. In New York, for example, spends about $23.3 thousand per student, while Florida spends $9.6 thousand (Hanson, 2021). Policy solutions would have most direct impact if implemented at the state or local level due to the majority of funds coming from those governments. 
 
+ # Data Understanding
+
+ According to Roy Garrad (2019), the dataset we are using contains information related to student enrollment across the entire United States. Data is collected from the United States Census Bureau as well as the National Center for Education Statistics (NCES) and runs from the year 1992 to 2019. The data collected is focused on individual grades and further separated by ethnicity and sex. It also specifically records the average math and reading scores for grades 4 and 8. 
+
+The data is sorted into a table with columns indicating the data it represents and rows showing what state and year the data is recorded in. 
+
+It is important to note that Garrad (2021) explained that the data recorded for ENROLL is from the U.S Census Bureau while the A_A_A (records  the same data as ENROLL) is from the NCES data. This will cause some variability in the outcome depending what variable is used.
+
+
  # Sources:
 
 AFR Data: Summary-Level. Pennsylvania Department of Education. (n.d.). Retrieved December 7, 2021, from https://www.education.pa.gov/Teachers%20-%20Administrators/School%20Finances/Finances/AFR%20Data%20Summary/Pages/AFR-Data-Summary-Level.aspx. 
