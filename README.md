@@ -43,7 +43,7 @@ It is important to note that Garrad (2021) explained that the data recorded for 
 
 # Exploratory Data Analysis
 
-![alt text](https://github.com/carolineburns3/finalproject/blob/Images/PerPupilbyState.png?raw=true)
+![alt text](https://github.com/carolineburns3/finalproject/blob/Images/PerPupilbyState.png)
 
  # Sources:
 
