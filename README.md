@@ -7,6 +7,8 @@
 
 [Business Understanding](#headers) 
 
+[Exploratory Data Analysis](#headers) 
+
 [Sources](#headers)
 <a name="headers"/>
 
@@ -39,6 +41,9 @@ The data is sorted into a table with columns indicating the data it represents a
 
 It is important to note that Garrad (2021) explained that the data recorded for ENROLL is from the U.S Census Bureau while the A_A_A (records  the same data as ENROLL) is from the NCES data. This will cause some variability in the outcome depending what variable is used.
 
+# Exploratory Data Analysis
+
+![alt text](https://github.com/carolineburns3/finalproject/blob/Images/PerPupilbyState.png?raw=true)
 
  # Sources:
 
