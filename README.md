@@ -44,6 +44,12 @@ It is important to note that Garrad (2021) explained that the data recorded for 
 # Exploratory Data Analysis
 
 ![alt text](Images/PerPupilbyState.png)
+![alt text](Images/PerPupilIns8thGradeMath.png)
+![alt text](Images/PerPupil8thGradeMath.png)
+![alt text](Images/PerPupil4thGradeReadWh.png)
+![alt text](Images/PerPupil4thGradeReadingBl.png)
+![alt text](Images/PerPupil4thGradeMathBl.png)
+![alt text](Images/PerPupil4thGradeMath.png)
 
  # Sources:
 
