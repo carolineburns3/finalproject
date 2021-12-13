@@ -1,19 +1,19 @@
-Variable,Data type,Description
-PRIMARY_KEY,Nominal,A combination of the year and state name
-STATE,Nominal,Year in which the data is collected
-YEAR,Nominal,State in which the data is collected
-ENROLL,Ratio,The U.S. Census Bureau's count for students in the state
-TOTAL_REVENUE,Ratio,The total amount of revenue for the state
-FEDERAL_REVENUE,Ratio,The total amount of federal revenue for the state
-STATE_REVENUE,Ratio,The total amount of state revenue for the state
-LOCAL_REVENUE,Ratio,The total amount of local revenue for the state
-TOTAL_EXPENDITURE,Ratio,The total expenditure for the state
-INSTRUCTION_EXPENDITURE,Ratio,The instruction expenditure for the state
-SUPPORT_SERVICES_EXPENDITURE,Ratio,The support services expenditure for the state
-OTHER_EXPENDITURE,Ratio,The expenditure used for other smaller expensesfor the state
-CAPITAL_OUTLAY_EXPENDITURE,Ratio,The capital outlay expenditure for the state
-A_A_A,Ratio,Total number of students in the state
-G_A_A,Ratio,"Total number of students in the indicated grade (G = G01-G12 (grades 1 to 12), PK (Pre-kindergarten),  KG (kindergarten))"
-G_E_S,Ratio,"Total number of students in the indicated grade with the indicated ethnicity and sex (G = Grade; E = AM (American Indian or Alaska Native), AS (Asian), HI (Hispanic/Latino), BL (Black or African American), WH (White), HP (Hawaiian Native/Pacific Islander), and TR (Two or More Races); S = M (Male) and F (Female))"
-G_E_S_READING,Ratio,Average score of students on the Reading test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all))
-G_E_S_MATHEMATICS,Ratio,Average score of students on the Mathematics test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all))
+Variable,Data type,Description,Units
+PRIMARY_KEY,Nominal,A combination of the year and state name,NA
+STATE,Nominal,Year in which the data is collected,NA
+YEAR,Nominal,State in which the data is collected,NA
+ENROLL,Ratio,The U.S. Census Bureau's count for students in the state,Whole Numbers
+TOTAL_REVENUE,Ratio,The total amount of revenue for the state,Thousands of Dollars
+FEDERAL_REVENUE,Ratio,The total amount of federal revenue for the state,Thousands of Dollars
+STATE_REVENUE,Ratio,The total amount of state revenue for the state,Thousands of Dollars
+LOCAL_REVENUE,Ratio,The total amount of local revenue for the state,Thousands of Dollars
+TOTAL_EXPENDITURE,Ratio,The total expenditure for the state,Thousands of Dollars
+INSTRUCTION_EXPENDITURE,Ratio,The instruction expenditure for the state,Thousands of Dollars
+SUPPORT_SERVICES_EXPENDITURE,Ratio,The support services expenditure for the state,Thousands of Dollars
+OTHER_EXPENDITURE,Ratio,The expenditure used for other smaller expensesfor the state,Thousands of Dollars
+CAPITAL_OUTLAY_EXPENDITURE,Ratio,The capital outlay expenditure for the state,Thousands of Dollars
+A_A_A,Ratio,Total number of students in the state,Whole Numbers
+G_A_A,Ratio,"Total number of students in the indicated grade (G = G01-G12 (grades 1 to 12), PK (Pre-kindergarten),  KG (kindergarten))",Whole Numbers
+G_E_S,Ratio,"Total number of students in the indicated grade with the indicated ethnicity and sex (G = Grade; E = AM (American Indian or Alaska Native), AS (Asian), HI (Hispanic/Latino), BL (Black or African American), WH (White), HP (Hawaiian Native/Pacific Islander), and TR (Two or More Races); S = M (Male) and F (Female))",Whole Numbers
+G_E_S_READING,Ratio,Average score of students on the Reading test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all)),Ratio
+G_E_S_MATHEMATICS,Ratio,Average score of students on the Mathematics test in the indicated grade with the indicated ethnicity and sex (G = Grade; E = Ethnicity (A = all); S = Sex (A = all)),Ratio
