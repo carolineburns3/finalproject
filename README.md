@@ -3,7 +3,7 @@
 ##### Table of Contents  
 [Introduction: Public Education in the US](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding) 
 
-[Data Understanding](#https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)  
+[Data Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)  
 
 [Business Understanding](#Business Understanding) 
 
