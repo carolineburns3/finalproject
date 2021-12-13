@@ -7,7 +7,7 @@
  
 [Business Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)
 
-[Exploratory Data Analysis](#Exploratory Data Analysis) 
+[Exploratory Data Analysis](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis) 
 
 [Sources](#Sources)
 <a name="headers"/>
