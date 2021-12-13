@@ -1,9 +1,9 @@
 # finalproject
 
 ##### Table of Contents  
-[Introduction: Public Education in the US](#headers) 
+[Introduction: Public Education in the US](#https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding) 
 
-[Data Understanding](#Data Understanding)  
+[Data Understanding](#https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)  
 
 [Business Understanding](#Business Understanding) 
 
