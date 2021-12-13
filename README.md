@@ -44,7 +44,7 @@ There are small issues to note when dealing with this data set. First, it is imp
 
 # Exploratory Data Analysis
 
-![alt text](Images/PerPupilbyState.png)
+![alt text](Images/PerState.png)
 
 ![alt text](Images/PerPupil8thGradeMath.png)
 
