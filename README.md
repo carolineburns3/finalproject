@@ -3,13 +3,13 @@
 ##### Table of Contents  
 [Introduction: Public Education in the US](#headers) 
 
-[Data Understanding](#headers)  
+[Data Understanding](#Data Understanding)  
 
-[Business Understanding](#headers) 
+[Business Understanding](#Business Understanding) 
 
-[Exploratory Data Analysis](#headers) 
+[Exploratory Data Analysis](#Exploratory Data Analysis) 
 
-[Sources](#headers)
+[Sources](#Sources)
 <a name="headers"/>
 
 
