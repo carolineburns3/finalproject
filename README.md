@@ -3,9 +3,9 @@
 ##### Table of Contents  
 [Introduction: Public Education in the US](https://github.com/carolineburns3/finalproject/blob/main/README.md#introduction-public-education-in-the-us) 
 
-[Data Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#data-understanding)
- 
 [Business Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)
+
+[Data Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#data-understanding)
 
 [Exploratory Data Analysis](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis) 
 
