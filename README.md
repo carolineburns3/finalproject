@@ -5,7 +5,7 @@
 
 [Data Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding)  
 
-[Business Understanding](#Business Understanding) 
+[Business Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#business-understanding) 
 
 [Exploratory Data Analysis](#Exploratory Data Analysis) 
 
