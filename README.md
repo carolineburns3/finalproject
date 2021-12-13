@@ -9,7 +9,7 @@
 
 [Exploratory Data Analysis](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis) 
 
-[Sources](#Sources)
+[Sources](https://github.com/carolineburns3/finalproject/blob/main/README.md#sources)
 <a name="headers"/>
 
 
