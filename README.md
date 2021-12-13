@@ -59,6 +59,7 @@ It is important to note that Garrad (2021) explained that the data recorded for 
 
 ![alt text](Images/PerPupil4thGradeMathBl.png)
 
+![alt text](Images/IndianaMathScores.png)
 
 
 
