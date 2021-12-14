@@ -46,6 +46,24 @@ There are small issues to note when dealing with this data set. First, it is imp
 
 ![alt text](Images/PerState.png)
 
+![alt text](Images/totalrevenueperyear.png)
+
+![alt text](Images/expendperstudentne.png)
+
+![alt text](Images/expendperstudentm.png)
+
+![alt text](Images/expendperstudents.png)
+
+![alt text](Images/expendperstudentw.png)
+
+![alt text](Images/math4scatter.png)
+
+![alt text](Images/math8scatter.png)
+
+![alt text](Images/reading4scatter.png)
+
+![alt text](Images/reading8scatter.png)
+
 ![alt text](Images/PerPupil8thGradeMath.png)
 
 ![alt text](Images/PerPupil4thGradeMath.png)
