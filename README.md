@@ -106,9 +106,15 @@ There is a positive relationship between both white and Black students 4th grade
 
 ![alt text](Images/PerPupil4thGradeMathBl.png)
 
+We noticed a difference in these plots in the average scores of white and Black students so here we conducted a t-test to further explore the averages of white and Black students reading scores. We found that Black students average 4th grade reading score is significantly lower that white students average score. White students on average score 230.37 while Black students score 204.52 on average. This is important for states to keep in mind. 
+
+We wanted to explore some potential solutions to funding and expenditure inequities. Since each state fund and spend differently, we wanted to look into states that may have better or worse policy. We explored Indiana's test scores in order to see if their policy change may impact scores. In 2008, the state of Indiana passed a bill that would set tax rates and ceilings on local local property taxes for education. They then increased state sales and use taxes in order to make up for this loss in local tax revenue.
+
 ![alt text](Images/IndianaMathScores.png)
 
+We see an increase in test scores after 2008, so Indiana's changed tax policy may be a potential solution. This type of policy works to eliminate disparities in revenue within each school district. There is not a lot of data for just Indiana though, so this might be better to explore from within the state: do districts that benefited the most from this policy perform better?
 
+We decided to look more between states. Some states have more funding disparities than others. Alaska allocates the highest percentage of funding to districts with the highest poverty levels, while Nevada's low poverty districts receive more funding than their high poverty districts (Leins 2020). These differences in fundings and expenditures could impact the average scores of students in these states. Since we don't have socioeconomic class data, we use race to look at potential differences. As we know from background research, Black students are more likely to attend low povery schools. The average reading score for Black students in Nevada is significantly less than in Alaska. It is 201.4 and 207.5 for Black students in Nevada and Alaska, respectively. This result may indicate that Alaska's more equitable funding (with higher poverty districts getting more money) may impact student outcomes (standardized test scores).
 
 # Sources:
 
