@@ -90,9 +90,13 @@ Next, we want to explore relationships between expenditure, race, and standardiz
 
 ![alt text](Images/reading8scatter.png)
 
+In order to explore the relationship between types of expenditure and test score outcomes we can look at a scatter plot of instruction expenditure and standardized test scores. Instruction expenditure is state's spending on things specifically related to instruction of students. 
+
 ![alt text](Images/PerPupilIns8thGradeMath.png)
 
 ![alt text](Images/PerPupilIns4thGradeReadingWh.png)
+
+There is a positive relationship between both white and Black students 4th grade reading scores and per pupil instruction expenditure.
 
 ![alt text](Images/PerPupil4thGradeReadWh.png)
 
