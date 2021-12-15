@@ -94,11 +94,13 @@ In order to explore the relationship between types of expenditure and test score
 
 ![alt text](Images/PerPupilIns8thGradeMath.png)
 
+There is a positive relationship between per pupil instruction expenditure and 8th grade math scores. This indicates that the more money spent on instruction, the higher test scores tend to be, however, this is not a causal relationship.
+
 ![alt text](Images/PerPupilIns4thGradeReadingWh.png)
 
 ![alt text](Images/PerPupil4thGradeReadingBl.png)
 
-There is a positive relationship between both white and Black students 4th grade reading scores and per pupil instruction expenditure.
+There is a positive relationship between both white and Black students 4th grade reading scores and per pupil instruction expenditure. Black student's scores and instruction expenditure are not as strongly correlated as for students overall and white students. 
 
 ![alt text](Images/PerPupil4thGradeReadWh.png)
 
