@@ -80,7 +80,7 @@ New York, Vermont, and New Jersey have spent the most money per pupil on average
 
 <img src="Images/expendperstudentw.png" width="600" height="400">
 
-Next, we want to explore relationships between expenditure, race, and standardized test scores.
+Next, we want to explore relationships between expenditure, race, and standardized test scores. First we look into relationships between per student expenditure and all students average test scores.
 
 <img src="Images/math4scatter.png" width="600" height="400">
 
@@ -90,7 +90,7 @@ Next, we want to explore relationships between expenditure, race, and standardiz
 
 <img src="Images/reading8scatter.png" width="600" height="400">
 
-In order to explore the relationship between types of expenditure and test score outcomes we can look at a scatter plot of instruction expenditure and standardized test scores. Instruction expenditure is state's spending on things specifically related to instruction of students. 
+In order to explore the relationship between types of expenditure and test score outcomes we can look at a scatter plot of instruction expenditure and standardized test scores. Instruction expenditure is state's spending on things specifically related to instruction of students. Perhaps targeted expenditure to instruction could have more of an impact on standardized test results. 
 
 ![alt text](Images/PerPupilIns8thGradeMath.png)
 
