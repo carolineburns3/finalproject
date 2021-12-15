@@ -68,7 +68,7 @@ First, we want to explore how much states spend per pupil.
 
 ![alt text](Images/PerState.png) 
 
-<img src="Images/PerState.png" width="1000" height="1100">
+<img src="Images/PerState.png" width="700" height="750">
 
 New York, Vermont, and New Jersey have spent the most money per pupil on average. Utah, Idaho, and Arizona have spent on average the least money per pupil. A big takeaway here is that states spend different amounts on education per pupil.
 
