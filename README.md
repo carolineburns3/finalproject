@@ -66,7 +66,7 @@ There are small issues to note when dealing with this data set. First, it is imp
 
 First, we want to explore how much states spend per pupil. 
 
-<img src="Images/PerState.png" width="400" height="500">
+<img src="Images/PerState.png" width="700" height="700">
 
 ![alt text](Images/PerState.png) 
 
