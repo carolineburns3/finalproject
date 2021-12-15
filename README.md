@@ -90,10 +90,6 @@ Next, we want to explore relationships between expenditure, race, and standardiz
 
 ![alt text](Images/reading8scatter.png)
 
-![alt text](Images/PerPupil8thGradeMath.png)
-
-![alt text](Images/PerPupil4thGradeMath.png)
-
 ![alt text](Images/PerPupilIns8thGradeMath.png)
 
 ![alt text](Images/PerPupilIns4thGradeReadingWh.png)
