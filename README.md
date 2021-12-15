@@ -96,11 +96,11 @@ In order to explore the relationship between types of expenditure and test score
 
 ![alt text](Images/PerPupilIns4thGradeReadingWh.png)
 
+![alt text](Images/PerPupil4thGradeReadingBl.png)
+
 There is a positive relationship between both white and Black students 4th grade reading scores and per pupil instruction expenditure.
 
 ![alt text](Images/PerPupil4thGradeReadWh.png)
-
-![alt text](Images/PerPupil4thGradeReadingBl.png)
 
 ![alt text](Images/PerPupil4thGradeMathBl.png)
 
