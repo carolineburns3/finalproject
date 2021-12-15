@@ -64,21 +64,21 @@ There are small issues to note when dealing with this data set. First, it is imp
 
 # Exploratory Data Analysis
 
+## Spending per Pupil in Each State
+
 First, we want to explore how much states spend per pupil. 
 
 <img src="Images/PerState.png" width="600" height="500">
 
 New York, Vermont, and New Jersey have spent the most money per pupil on average. Utah, Idaho, and Arizona have spent on average the least money per pupil. A big takeaway here is that states spend different amounts on education per pupil.
 
+## Total Revenue per State Over Time
+
 <img src="Images/totalrevenueperyear.png" width="600" height="400">
 
-<img src="Images/expendperstudentne.png" width="600" height="400">
+We can see that California, New York, and Texas have the highest revenue by a notable margin, while the remaining states are more closely clustered together. It makes sense that New York has the highest revenue and also spends the most money per pupil as well. 
 
-<img src="Images/expendperstudentm.png" width="600" height="400">
-
-<img src="Images/expendperstudents.png" width="600" height="400">
-
-<img src="Images/expendperstudentw.png" width="600" height="400">
+## Expenditure, Race, and Standardized Test Scores
 
 Next, we want to explore relationships between expenditure, race, and standardized test scores. First we look into relationships between per student expenditure and all students average test scores.
 
@@ -89,6 +89,8 @@ Next, we want to explore relationships between expenditure, race, and standardiz
 <img src="Images/reading4scatter.png" width="600" height="400">
 
 <img src="Images/reading8scatter.png" width="600" height="400">
+
+In all four of these plots, we can see that the Northeast, on average, outspends on students and also tends to have the highest test scores. The Midwest appears to spend the second most on average. Some interesting features to these plots are the outliers coming from Southern state data points. Even though these states are spending a large amount of money per pupil, the standardized test scores are surprisingly low. 
 
 In order to explore the relationship between types of expenditure and test score outcomes we can look at a scatter plot of instruction expenditure and standardized test scores. Instruction expenditure is state's spending on things specifically related to instruction of students. Perhaps targeted expenditure to instruction could have more of an impact on standardized test results. 
 
@@ -115,6 +117,14 @@ We wanted to explore some potential solutions to funding and expenditure inequit
 We see an increase in test scores after 2008, so Indiana's changed tax policy may be a potential solution. This type of policy works to eliminate disparities in revenue within each school district. There is not a lot of data for just Indiana though, so this might be better to explore from within the state: do districts that benefited the most from this policy perform better?
 
 We decided to look more between states. Some states have more funding disparities than others. Alaska allocates the highest percentage of funding to districts with the highest poverty levels, while Nevada's low poverty districts receive more funding than their high poverty districts (Leins 2020). These differences in fundings and expenditures could impact the average scores of students in these states. Since we don't have socioeconomic class data, we use race to look at potential differences. As we know from background research, Black students are more likely to attend low povery schools. The average reading score for Black students in Nevada is significantly less than in Alaska. Scores are 201.4 and 207.5 for Black students in Nevada and Alaska, respectively. This result may indicate that Alaska's more equitable funding (with higher poverty districts getting more money) may impact student outcomes (standardized test scores). White student's scores are not significantly different between Nevada and Alaska. The scores are 226.8 and 225.5 for Black students in Nevada and Alaska, respectively. This may be because Alaska's funding choices are more designed to improve underserved school districts. 
+
+# Conclusions
+
+# Future Directions
+
+# Run Notebook in Colab
+
+Click the link below to run our notebook in Colab. 
 
 # Sources:
 
