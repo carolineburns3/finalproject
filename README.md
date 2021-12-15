@@ -40,6 +40,7 @@ The data itself is sorted into a table with columns indicating the data it repre
 
 There are small issues to note when dealing with this data set. First, it is important to note that Garrad (2019) explained that the data recorded for ENROLL is from the U.S Census Bureau while the A_A_A (records the same data as ENROLL) is from the NCES data. This will cause some variability in the outcome depending what variable is used. Additionally, the NCES only begins to record gender beginning in 2009. This is more than enough years of data to make accurate models and assumptions based on the data presented. Lastly, the test score data is incomplete and is only available for certain years.
  
+csvtomd FPdatatypes.csv
 
 
 # Exploratory Data Analysis
