@@ -1,7 +1,7 @@
 Variable,Data type,Description,Units
 PRIMARY_KEY,Nominal,A combination of the year and state name,NA
 STATE,Nominal,Year in which the data is collected,NA
-YEAR,Nominal,State in which the data is collected,NA
+YEAR,Interval,State in which the data is collected,NA
 ENROLL,Ratio,The U.S. Census Bureau's count for students in the state,Whole Numbers
 TOTAL_REVENUE,Ratio,The total amount of revenue for the state,Thousands of Dollars
 FEDERAL_REVENUE,Ratio,The total amount of federal revenue for the state,Thousands of Dollars
