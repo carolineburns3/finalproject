@@ -133,6 +133,8 @@ Additionally, since states spend education money differently, we wanted to look 
 
 # Future Directions
 
+Most importantly, states should become more vigilant with data collection and analysis. Education funding inequity and outcome disparities are pressing issues to society. With most of the power in state and local hands, it would be in their best interest to collect relevant data that would make it easier to explore this issue. We noticed in our research that even with multiple data sources, a lot of information was still missing. This data should be collected more often and analyzed each year to explore potential solutions to the problem.
+
 # Run Notebook in Colab
 
 Click the link below to run our notebook in Colab. 
