@@ -1,4 +1,4 @@
-# Examination of State Revenue and Expenditure on Public Education Learning Outcomes in the US
+# Examination of State Revenue and Expenditure on Public Education Learning Outcomes in the United States
 
 #### _This repository was created by Caroline Burns, Charlie Hohl, Jelissa Kamguem, and Eliana Liebman._
 
