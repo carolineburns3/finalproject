@@ -90,7 +90,7 @@ New York, Vermont, and New Jersey have spent the most money per pupil on average
 
 <img src="Images/totalrevenueperyear.png" width="600" height="400">
 
-We can see that California, New York, and Texas have the highest revenue by a notable margin, while the remaining states are more closely clustered together. It makes sense that New York has the highest revenue and also spends the most money per pupil as well. 
+We can see that California, New York, and Texas have the highest revenue by a notable margin, while the remaining states are more closely clustered together. It makes sense that New York has the highest revenue and also spends the most money per pupil as well. Overall, we can see an increasing trend in revenue over time, with some states increasing at a much faster rate. 
 
 ## Expenditure, Race, and Standardized Test Scores
 
