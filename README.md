@@ -1,6 +1,6 @@
 # Examination of State Revenue and Expenditure on Public Education Learning Outcomes in the US
 
-#### _This repository was created for the DS 201 Final Project._
+#### _This repository was created for the DS 201 Final Project by Caroline Burns, Charlie Hohl, Jelissa Kamguem, and Eliana Liebman._
 
 ##### Table of Contents  
 [Introduction: Public Education in the US](https://github.com/carolineburns3/finalproject/blob/main/README.md#introduction-public-education-in-the-us) 
