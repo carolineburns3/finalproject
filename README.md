@@ -1,4 +1,6 @@
-# finalproject
+# Examination of State Revenue and Expenditure on Public Education Learning Outcomes in the US
+
+### This repository was created for the DS 201 Final Project.
 
 ##### Table of Contents  
 [Introduction: Public Education in the US](https://github.com/carolineburns3/finalproject/blob/main/README.md#introduction-public-education-in-the-us) 
@@ -8,6 +10,12 @@
 [Data Understanding](https://github.com/carolineburns3/finalproject/blob/main/README.md#data-understanding)
 
 [Exploratory Data Analysis](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis) 
+
+[Deployment](https://github.com/carolineburns3/finalproject/blob/main/README.md#deployment)
+
+[Run in Colab](https://github.com/carolineburns3/finalproject/blob/main/README.md#run-notebook-in-colab)
+
+[YouTub Video Link](https://github.com/carolineburns3/finalproject/blob/main/README.md#youtube-video-link)
 
 [Sources](https://github.com/carolineburns3/finalproject/blob/main/README.md#sources)
 <a name="headers"/>
@@ -138,6 +146,15 @@ Most importantly, states should become more vigilant with data collection and an
 # Run Notebook in Colab
 
 Click the link below to run our notebook in Colab. 
+
+
+[Run in Colab](https://colab.research.google.com/drive/1heAQwYFqFyAxDhEHSd7bLvPpsqxbSfAO?usp=sharing)
+
+# YouTube Video Link
+
+Check out our walkthrough video [here](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis)
+
+Watch our slides presentation [here](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis)
 
 # Sources:
 
