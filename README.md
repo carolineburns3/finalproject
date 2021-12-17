@@ -152,9 +152,9 @@ Click the link below to run our notebook in Colab.
 
 # YouTube Video Link
 
-Check out our walkthrough video [here](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis)
+Check out our walkthrough video [here](https://youtu.be/GAsW3-FhAsI)
 
-Watch our slides presentation [here](https://github.com/carolineburns3/finalproject/blob/main/README.md#exploratory-data-analysis)
+Watch our slides presentation [here](https://youtu.be/BVdW4HVmXt8)
 
 # Sources:
 
